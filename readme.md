@@ -15,6 +15,7 @@
 <details>
   <summary>Is it open source?</summary>
 
- By being on Github, Belugas allows anyone to fork, edit, and deploy the software freely. No credit needed, enjoy.
+ By being on Github, Beluga allows anyone to fork, edit, and deploy the software freely. No credit needed, enjoy.
 
 </details>
+
