@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/static/beluga/',
-    bare:'wss://wisp.mercurywork.shop/',
+    bare:'https://wisp.mercurywork.shop/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
