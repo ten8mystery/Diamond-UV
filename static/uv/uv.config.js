@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/static/belugas/',
+    prefix: '/static/beluga/',
     bare:'https://wisp.rhw.one',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
